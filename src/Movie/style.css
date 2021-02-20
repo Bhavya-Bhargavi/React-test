@@ -1,0 +1,29 @@
+body {
+  margin: 0 auto;
+  text-align: center;
+}
+.ul-list li {
+  text-align: center;
+  text-decoration: none;
+  list-style-type: none;
+}
+.movietag {
+  width: 300px;
+  padding: 10px;
+  box-shadow: 2px 2px 2px grey;
+  border-radius: 7%;
+}
+.movietag img {
+  max-width: 100%;
+}
+.moviebox {
+  display: flex;
+  justify-content: space-evenly;
+  margin: auto;
+}
+.send-data {
+  margin: 0px 90px;
+  padding: 5px;
+  border: 1px solid grey;
+  border-radius: 50px;
+}
